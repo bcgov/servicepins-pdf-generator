@@ -79,7 +79,7 @@ def form(supervisor):
     publicServiceWeek = "June 9 to 15, 2024"
 
     corporatePlan = '<u><a color="blue" href="' + 'https://www2.gov.bc.ca/assets/gov/careers/about-the-bc-public-service/corporate-digital/corporateplan_2023.pdf' + \
-        '">' + 'Corporate Plane' + '</a></u>'
+        '">' + 'Corporate Plan' + '</a></u>'
 
     paragraphs = ["It’s time to celebrate your employees’ career milestones! Enclosed, you’ll find your employees’ service pin(s) and a list of which pin goes to which employees.", f"Public Service Week is {publicServiceWeek}.", f"This is a wonderful opportunity to thank your employees for their contributions and celebrate their commitment to the BC Public Service. Recognition initiatives such as the Service Pin program support the retention goal set out in the {corporatePlan} by providing a positive and rewarding employee experience. If you are unable to present the pins during Public Service Week, you are encouraged to save the presentation for a suitable date.", "Please consider the employee’s individual preferences and comfort level when presenting their service pin. If your employee doesn’t work in the same office as you, or works remotely, please mail the pin as soon as possible. Consider hosting a virtual presentation during a team meeting or connect with your employee directly to congratulate them.", "Personalized messages from supervisors and executives are encouraged and may be added to the card attached to the pins.", "The pin(s) in this package should be presented to: "]
 
